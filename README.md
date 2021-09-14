@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Helal</h1>
 <h3 align="center">A passionate Data Scientist from Brazil 🇧🇷</h3>
 
-- 🔭 I’m currently working on [Eleflow](https://eleflow.com.br/pt/)
+- 🔭 I’m currently working on [Americanas S.A.](https://ri.americanas.com/)
 
 - 🌱 I’m currently learning **Databricks**
 
