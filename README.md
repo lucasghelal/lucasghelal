@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Americanas S.A.](https://ri.americanas.com/)
 
-- 🌱 I’m currently learning **Databricks**
+- 🌱 I’m currently learning **MLOps**
 
 - 📝 I regulary write articles on [https://medium.com/@lucasghelal](https://medium.com/@lucasghelal)
 
