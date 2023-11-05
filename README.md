@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lucas Helal</h1>
-<h3 align="center">A passionate Data Scientist from Brazil 🇧🇷</h3>
+<h3 align="center">A passionate Data Specialist from Brazil 🇧🇷</h3>
 
 - 🔭 I’m currently working on [Americanas S.A.](https://ri.americanas.com/)
 
 - 🌱 I’m currently learning **MLOps**
 
-- 📝 I regulary write articles on [https://medium.com/@lucasghelal](https://medium.com/@lucasghelal)
+- 📝 I regularly write articles on [https://medium.com/@lucasghelal](https://medium.com/@lucasghelal)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
