@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lucas Helal</h1>
-<h3 align="center">A passionate Data Specialist from Brazil 🇧🇷</h3>
+<h3 align="center">A Passionate Data Specialist from Brazil 🇧🇷</h3>
 
-- 🔭 I’m currently working on [Americanas S.A.](https://ri.americanas.com/)
+-	🎓 I hold a Master’s degree in Computer Science with a focus on Artificial Intelligence.
 
-- 🌱 I’m currently learning **MLOps**
+- 🔭 Currently, I’m working at [Birdzi](https://birdzi.com/)
 
-- 📝 I regularly write articles on [https://medium.com/@lucasghelal](https://medium.com/@lucasghelal)
+- 🌱  I’m serving as the Lead AI / Machine Learning Engineer specializing in **MLOps**.
+
+- 📝 I regularly share insights and articles on [Medium](https://medium.com/@lucasghelal](https://medium.com/@lucasghelal)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
